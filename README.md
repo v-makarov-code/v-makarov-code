@@ -1,14 +1,12 @@
-![Я Data Scientist!](https://github.com/v-makarov-code/v-makarov-code/blob/main/header.png)
+<h1 align="center">Привет, я Владислав!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%D0%AF+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" alt="Typing SVG" /></a></h3>
 
-Имею высшее образования в области математики и физики. Применяю и активно прокачиваю свои навыки в выполняя проекты в области FinTech, продуктовой аналитики и делаю дашборды в BI-системах. 
+## Обо мне
+Имею высшее образования в области математики и физики. Применяю и активно прокачиваю свои навыки, выполняя проекты в области аналитики данных, продуктовой аналитики и делаю дашборды в BI-системах. 
 
-- 🔭 I’m currently working on this page. 
-
-| Name       | Badge |
-|-------------|--------|
-| Python      | ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)|
-| ClickHouse  | ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)    |
-| Git         | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  |
+### Мои сертификаты
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-makarov-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
