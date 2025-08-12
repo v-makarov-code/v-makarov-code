@@ -8,8 +8,8 @@
 
 ### Мои сертификаты
 <div style="display: flex; justify-content: space-around;">
-  <img src=https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg alt="Аналитик данных" width="45%">
-  <img src=https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg alt="Симулятор Аналитика" width="45%">
+  <img src=https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg alt="Аналитик данных" style="width: 49%; height: auto">
+  <img src=https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg alt="Симулятор Аналитика" style="width: 49%; height: auto">
 </div>
 
 ### Технологический стек
