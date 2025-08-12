@@ -10,7 +10,31 @@
 ![Аналитик данных karpov.courses](https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg)
 ![Симулятор аналитика karpov.courses](https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg)
 
+### Технологический стек
+| Технология     | Иконка                                                                 |
+|----------------|------------------------------------------------------------------------|
+| Python         | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| SQL            | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| PostgreSQL     | ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white) |
+| ClickHouse     | ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC00?style=flat&logo=clickhouse&logoColor=black) |
+| GitLab         | ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
+| GitHub         | ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) |
+| DataLens       | ![DataLens](https://img.shields.io/badge/datalens-0078D4?style=flat&logo=yandex&logoColor=white) |
+| Airflow        | ![Airflow](https://img.shields.io/badge/apache%20airflow-007A88?style=flat&logo=apache-airflow&logoColor=white) |
+| JupyterHub     | ![JupyterHub](https://img.shields.io/badge/jupyterhub-F37626?style=flat&logo=jupyter&logoColor=white) |
+| Redash         | ![Redash](https://img.shields.io/badge/redash-E44C30?style=flat&logo=redash&logoColor=white) |
+| Superset       | ![Superset](https://img.shields.io/badge/apache%20superset-00A1E0?style=flat&logo=apache-superset&logoColor=white) |
+
+### Мои проекты
+
+| Имя проекта | Описание | Технологии |
+|-------------|----------|------------|
+| [AB-testing-new-recommendation-alg](https://github.com/v-makarov-code/AB-testing-new-recommendation-alg) | A/B-тестирование нового алгоритма рекомендации постов. Сравнение эффективности различных A/B-тестов. | Python, SQL, PostgreSQL |
+| Проект 2    | Краткое описание проекта 2 | ClickHouse, Airflow, Superset |
+| Проект 3    | Краткое описание проекта 3 | JupyterHub, Redash, GitLab |
+| Проект 3    | Краткое описание проекта 3 | JupyterHub, Redash, GitLab |
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-makarov-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Социальные сети:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/v-makarov-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vladislav-makarov-aba956365//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/vlad_makar0v)  
+
