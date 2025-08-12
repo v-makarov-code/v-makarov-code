@@ -7,6 +7,8 @@
 Имею высшее образования в области математики и физики. Применяю и активно прокачиваю свои навыки, выполняя проекты в области аналитики данных, продуктовой аналитики и делаю дашборды в BI-системах. 
 
 ### Мои сертификаты
+![Аналитик данных karpov.courses](https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg)
+![Симулятор аналитика karpov.courses](https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-makarov-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
