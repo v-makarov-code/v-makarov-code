@@ -31,10 +31,15 @@
 
 | Имя проекта | Описание | Технологии |
 |-------------|----------|------------|
-| [AB-testing-new-recommendation-alg](https://github.com/v-makarov-code/AB-testing-new-recommendation-alg) | A/B-тестирование нового алгоритма рекомендации постов. Сравнение эффективности различных A/B-тестов. | Python, SQL, PostgreSQL |
-| Проект 2    | Краткое описание проекта 2 | ClickHouse, Airflow, Superset |
-| Проект 3    | Краткое описание проекта 3 | JupyterHub, Redash, GitLab |
-| Проект 3    | Краткое описание проекта 3 | JupyterHub, Redash, GitLab |
+| [AB-testing-new-recommendation-alg](https://github.com/v-makarov-code/AB-testing-new-recommendation-alg) | A/B-тестирование нового алгоритма рекомендации постов. Сравнение эффективности различных A/B-тестов. | Python, SQL, ClickHouse |
+| [anomaly-alert-DAG](https://github.com/v-makarov-code/anomaly-alert-DAG)    | Airflow DAG отправляет уведомление об обнаруженной аномалии в метрике | Python, ClickHouse, Airflow, Superset |
+| [ETL-pipeline-airflow](https://github.com/v-makarov-code/ETL-pipeline-airflow) | Обновляет таблицу с метриками через Airflow | Python, ClickHouse, Airflow |
+| [mde-statistical-power-estimation](https://github.com/v-makarov-code/mde-statistical-power-estimation)  | Проводится оценка мощности статистического теста из результатов A/A-теста | Python, ClickHouse |
+| [datalens-financial-indicators](https://github.com/v-makarov-code/datalens-financial-indicators)  | Дашборд DataLens для анализа финансовых индикаторов | DataLens |
+| [superset-feed-and-messages](https://github.com/v-makarov-code/superset-feed-and-messages)  | Два дашборда Superset для ленты новостей и сообщений в приложении | Superset, Clickhouse |
+| [cohort-analysis-marketing-campaign](https://github.com/v-makarov-code/cohort-analysis-marketing-campaign)  | Когортный анализ пользователей рекламной компании, а также анализ сбоя приложения | Python, Clickhouse |
+| [application-report-DAG](https://github.com/v-makarov-code/application-report-DAG)  | Отчет по приложению как единого целого, автоматическая отправка в Telegram | Python, Clickhouse, Airflow |
+| [ABtesting-E-commerce](https://github.com/v-makarov-code/ABtesting-E-commerce)  | A/B-тестирование новой механики оплаты услуг на сайте | Python |
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-makarov-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
