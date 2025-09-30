@@ -11,8 +11,8 @@
 
 | Описание | Сертификат |
 |----------|------------|
-|Сертификат [karpov.courses](https://karpov.courses/) успешно запершенного курса "Аналитик данных"|![аналитик данных](https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg)|
-|Сертификат [karpov.courses](https://karpov.courses/) успешно запершенного курса "Симулятор аналитика"|![симулятор аналитика](https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg)|
+|Сертификат [karpov.courses](https://karpov.courses/) успешно завершенного курса "Аналитик данных"|![аналитик данных](https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg)|
+|Сертификат [karpov.courses](https://karpov.courses/) успешно завершенного курса "Симулятор аналитика"|![симулятор аналитика](https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg)|
 
 
 ### Технологический стек
