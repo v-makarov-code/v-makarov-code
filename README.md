@@ -47,7 +47,7 @@
 
 ## Контакты 
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://t.me/vlad_makar0v">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
