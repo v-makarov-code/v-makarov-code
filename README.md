@@ -13,19 +13,18 @@
 </div>
 
 ### Технологический стек
-| Технология     | Иконка                                                                 |
-|----------------|------------------------------------------------------------------------|
-| Python         | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| SQL            | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| PostgreSQL     | ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white) |
-| ClickHouse     | ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC00?style=flat&logo=clickhouse&logoColor=black) |
-| GitLab         | ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
-| GitHub         | ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) |
-| DataLens       | ![DataLens](https://img.shields.io/badge/datalens-0078D4?style=flat&logo=yandex&logoColor=white) |
-| Airflow        | ![Airflow](https://img.shields.io/badge/apache%20airflow-007A88?style=flat&logo=apache-airflow&logoColor=white) |
-| JupyterHub     | ![JupyterHub](https://img.shields.io/badge/jupyterhub-F37626?style=flat&logo=jupyter&logoColor=white) |
-| Redash         | ![Redash](https://img.shields.io/badge/redash-E44C30?style=flat&logo=redash&logoColor=white) |
-| Superset       | ![Superset](https://img.shields.io/badge/apache%20superset-00A1E0?style=flat&logo=apache-superset&logoColor=white) |
+                                                            
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC00?style=flat&logo=clickhouse&logoColor=black)
+![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![DataLens](https://img.shields.io/badge/datalens-0078D4?style=flat&logo=yandex&logoColor=white)
+![Airflow](https://img.shields.io/badge/apache%20airflow-007A88?style=flat&logo=apache-airflow&logoColor=white)
+![JupyterHub](https://img.shields.io/badge/jupyterhub-F37626?style=flat&logo=jupyter&logoColor=white)
+![Redash](https://img.shields.io/badge/redash-E44C30?style=flat&logo=redash&logoColor=white)
+![Superset](https://img.shields.io/badge/apache%20superset-00A1E0?style=flat&logo=apache-superset&logoColor=white)
 
 ### Мои проекты
 
