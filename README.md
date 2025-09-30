@@ -45,6 +45,14 @@
 | [marketplace-PMF-analysis](https://github.com/v-makarov-code/marketplace-PMF-analysis)  | PMF анализ маркетплейса бразильских товаров | Python|
 | [forecasting-metrics](https://github.com/v-makarov-code/forecasting-metrics)  | Прогноз метрики активности пользователей | Python, Orbit, ClickHouse|
 
+## Контакты 
+
+<div id="badges" align="center">
+  <a href="https://t.me/vlad_makar0v">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-makarov-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
