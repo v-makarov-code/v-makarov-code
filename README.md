@@ -12,6 +12,12 @@
   <img src=https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg alt="Симулятор Аналитика" style="width: 49%; height: auto">
 </div>
 
+| Описание | Сертификат |
+|----------|------------|
+|Сертификат [karpov.courses](https://karpov.courses/) успешно запершенного курса "Аналитик данных"|![аналитик данных](https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg)|
+|Сертификат [karpov.courses](https://karpov.courses/) успешно запершенного курса "Симулятор аналитика"|![симулятор аналитика](https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg)|
+
+
 ### Технологический стек
                                                             
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
