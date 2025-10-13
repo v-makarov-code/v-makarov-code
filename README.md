@@ -5,14 +5,7 @@
 
 ## Обо мне
 
-Имею высшее образование по математике и физике. Я дата-аналитик с техническим бэкграундом и опытом работы по обработке и нахождению инсайтов из больших массивов экспериментальных данных. Применяю и активно совершенствую свои навыки, выполняя проекты в области аналитики данных, продуктовой аналитики и создания дашбордов в BI-системах.
-
-### Мои сертификаты
-
-| Описание | Сертификат |
-|----------|------------|
-|Сертификат [karpov.courses](https://karpov.courses/) успешно завершенного курса "Аналитик данных"|![аналитик данных](https://github.com/v-makarov-code/v-makarov-code/blob/main/certificatedataanalyst.jpg)|
-|Сертификат [karpov.courses](https://karpov.courses/) успешно завершенного курса "Симулятор аналитика"|![симулятор аналитика](https://github.com/v-makarov-code/v-makarov-code/blob/main/analystsimulator_page-0001.jpg)|
+Имею высшее образование по математике и физике и опыт работы в научной среде, поэтому обработка больших массивов данных, а также нахождение инсайтов и закономерностей являются для меня естественными и привычными задачами, которые я успешно применял в проектах по анализу научных данных и моделированию сложных систем. В карьере аналитика вижу возможность для развития своих навыков и углубление своих познаний для создания ценности в реальном мире. . Применяю и активно совершенствую свои навыки, выполняя проекты в области аналитики данных, продуктовой аналитики и создания дашбордов в BI-системах.
 
 
 ### Технологический стек
@@ -33,17 +26,11 @@
 
 | Имя проекта | Описание | Технологии |
 |-------------|----------|------------|
-| [AB-testing-new-recommendation-alg](https://github.com/v-makarov-code/AB-testing-new-recommendation-alg) | A/B-тестирование нового алгоритма рекомендации постов. Сравнение эффективности различных A/B-тестов. | Python, ClickHouse |
-| [anomaly-alert-DAG](https://github.com/v-makarov-code/anomaly-alert-DAG) | Airflow DAG отправляет уведомление об обнаруженной аномалии в метрике | Python, ClickHouse, Airflow, Superset |
-| [ETL-pipeline-airflow](https://github.com/v-makarov-code/ETL-pipeline-airflow) | Обновляет таблицу с метриками через Airflow | Python, ClickHouse, Airflow |
+| [AB-testing-new-recommendation-alg](https://github.com/v-makarov-code/AB-testing-new-recommendation-alg) | A/B-тестирование нового алгоритма рекомендации постов. Сравнение эффективности различных A/B-тестов. | Python, ClickHouow |
 | [mde-statistical-power-estimation](https://github.com/v-makarov-code/mde-statistical-power-estimation)  | Проводится оценка мощности статистического теста из результатов A/A-теста | Python, ClickHouse |
-| [datalens-financial-indicators](https://github.com/v-makarov-code/datalens-financial-indicators)  | Дашборд DataLens для анализа финансовых индикаторов | DataLens |
-| [superset-feed-and-messages](https://github.com/v-makarov-code/superset-feed-and-messages)  | Два дашборда Superset для ленты новостей и сообщений в приложении | Superset, Clickhouse |
+| [datalens-financial-indicators](https://github.com/v-makarov-code/datalens-financial-indicators)  | Дашборд DataLens для анализа финансовых индикаторов | DataLese |
 | [cohort-analysis-marketing-campaign](https://github.com/v-makarov-code/cohort-analysis-marketing-campaign)  | Когортный анализ пользователей рекламной компании, а также анализ сбоя приложения | Python, Clickhouse |
-| [application-report-DAG](https://github.com/v-makarov-code/application-report-DAG)  | Отчет по приложению как единого целого, автоматическая отправка в Telegram | Python, Clickhouse, Airflow |
-| [ABtesting-E-commerce](https://github.com/v-makarov-code/ABtesting-E-commerce)  | A/B-тестирование новой механики оплаты услуг на сайте | Python |
-| [telegram-report-DAG](https://github.com/v-makarov-code/telegram-report-DAG)  | Отправка отчета в чат телеграм каждый день | Python, Airflow, ClickHouse |
-| [marketplace-PMF-analysis](https://github.com/v-makarov-code/marketplace-PMF-analysis)  | PMF анализ маркетплейса бразильских товаров | Python|
+| [application-report-DAG](https://github.com/v-makarov-code/application-report-DAG)  | Отчет по приложению как единого целого, автоматическая отправка в Telegram | Python, Clickhouse, Airflhon|
 | [forecasting-metrics](https://github.com/v-makarov-code/forecasting-metrics)  | Прогноз метрики активности пользователей | Python, Orbit, ClickHouse|
 
 ## Контакты 
