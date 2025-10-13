@@ -28,7 +28,6 @@
 | [AB-testing-new-recommendation-alg](https://github.com/v-makarov-code/AB-testing-new-recommendation-alg) | A/B-тестирование нового алгоритма рекомендации постов. Сравнение эффективности различных A/B-тестов. | Python, ClickHouse |
 | [mde-statistical-power-estimation](https://github.com/v-makarov-code/mde-statistical-power-estimation)  | Проводится оценка мощности статистического теста из результатов A/A-теста | Python, ClickHouse |
 | [datalens-financial-indicators](https://github.com/v-makarov-code/datalens-financial-indicators)  | Дашборд DataLens для анализа финансовых индикаторов | DataLens |
-| [cohort-analysis-marketing-campaign](https://github.com/v-makarov-code/cohort-analysis-marketing-campaign)  | Когортный анализ пользователей рекламной компании, а также анализ сбоя приложения | Python, ClickHouse |
 | [application-report-DAG](https://github.com/v-makarov-code/application-report-DAG)  | Отчет по приложению как единого целого, автоматическая отправка в Telegram | Python, ClickHouse, Airflow|
 | [forecasting-metrics](https://github.com/v-makarov-code/forecasting-metrics)  | Прогноз метрики активности пользователей | Python, Orbit, ClickHouse|
 
