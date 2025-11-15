@@ -13,6 +13,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC00?style=flat&logo=clickhouse&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/microsoft%20excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/google%20sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ![DataLens](https://img.shields.io/badge/datalens-0078D4?style=flat&logo=yandex&logoColor=white)
@@ -42,6 +44,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-makarov-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
