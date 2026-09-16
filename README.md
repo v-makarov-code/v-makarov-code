@@ -4,6 +4,7 @@
   
 ### Технологический стек
                                                             
+![Go](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
